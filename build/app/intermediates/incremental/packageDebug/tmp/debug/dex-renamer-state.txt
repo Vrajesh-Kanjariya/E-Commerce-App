@@ -1,0 +1,10 @@
+#Thu Oct 24 07:01:22 IST 2024
+base.0=/Volumes/Vrajesh/Project/Flutter/E-Commerce-App/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Volumes/Vrajesh/Project/Flutter/E-Commerce-App/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Volumes/Vrajesh/Project/Flutter/E-Commerce-App/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=1/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
