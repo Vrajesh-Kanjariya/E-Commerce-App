@@ -3,6 +3,8 @@
 
 enum TextSizes { small, medium, large }
 
+enum MessageType { none, success, error, warning, info }
+
 enum OrderStatus { processing, shipped, delivered }
 
 enum PaymentMethods { paypal, googlePay, applePay, visa, masterCard, creditCard, payStack, razorPay, paytm }
