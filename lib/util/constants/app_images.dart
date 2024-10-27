@@ -5,6 +5,7 @@ class AppImages{
 
   // -- App Logos
   static const String appLogos = "$appLogoPath/app_logo_big.svg";
+  static const String appLogos2 = "$appLogoPath/app_logo_big.png";
 
   // -- Social Logos
 
